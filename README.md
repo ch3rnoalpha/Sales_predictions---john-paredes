@@ -14,6 +14,13 @@ for each item in the store and the
 + Year of Establishment 
 + Type
 
+
+![Outlet sales over time](https://imgur.com/i43t5Vm)
+
+
+
+
+
 for the store, a linear regression and tree regression models were crafted using Pandas, Numpy, seaborn, and scikit-learn.
 These models were tested on a 6000+ item training se and tested on a 2000+ item test set.
 Their performance was subsuquently evaluated using R^2 and RMSE metrics. These findings are summarized in the PowerPoint presentation provided.
