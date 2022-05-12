@@ -15,7 +15,7 @@ for each item in the store and the
 + Type
 
 
-![Outlet sales over time](https://imgur.com/i43t5Vm)
+![Outlet sales over time](https://i.imgur.com/i43t5Vm.png)
 
 
 
